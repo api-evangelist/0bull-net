@@ -1,4 +1,4 @@
-# 0bull-net
+# 0bull
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-0bull-net is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://0bull.net/
+Rent real iPhones by the month, each with its own sticky residential IP. Point agents at them or hand the screen to your VAs. No emulators, no hardware. We hold the first month on your card when you order and charge it once your phones are confirmed. Our service provides genuine Apple hardware with dedicated residential IPs for TikTok, Instagram and YouTube workflows, enabling automation without emulators.
+
+**Areas:** iPhone · Rental · Social Media · Automation · API
+
+## 0bull on APIs.io
+
+Everything profiled for 0bull is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/0bull-net/](https://apis.io/providers/0bull-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [0bull API](https://apis.io/apis/0bull-net/0bull-api/) — Manage TikTok, Instagram and YouTube accounts, publish videos, and control phones directly over HTTP.
+- [0bull API](https://apis.io/apis/0bull-net/0bull-net-api/) — 0bull API as documented publicly: 60 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostApiV1AccountsResponse](https://apis.io/schemas/0bull-net/0bull-net-post-api-v1-accounts-response/)
+- [PostApiV1BillingResponse](https://apis.io/schemas/0bull-net/0bull-net-post-api-v1-billing-response/)
+- [PostApiV1SubmissionsBatchesResponse](https://apis.io/schemas/0bull-net/0bull-net-post-api-v1-submissions-batches-response/)
+- [PostApiV1SubmissionsResponse](https://apis.io/schemas/0bull-net/0bull-net-post-api-v1-submissions-response/)
+- [PostV1SubmissionsBatchesRequest](https://apis.io/schemas/0bull-net/0bull-net-post-v1-submissions-batches-request/)
+- [PostV1SubmissionsRequest](https://apis.io/schemas/0bull-net/0bull-net-post-v1-submissions-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [0Bull Net Context](https://apis.io/jsonld/0bull-net/0bull-net-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [0bull API Rules](https://apis.io/rules/0bull-net/0bull-net-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [0Bull Net Authentication](https://apis.io/security/0bull-net/0bull-net-authentication/)
+- [0Bull Net Domain Security](https://apis.io/security/0bull-net/0bull-net-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [0Bull Net Scopes](https://apis.io/scopes/0bull-net/0bull-net-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [0Bull Net Plans Pricing](https://apis.io/plans/0bull-net/0bull-net-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [0Bull Net Rate Limits](https://apis.io/rate-limits/0bull-net/0bull-net-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://0bull.net/)
+- [Documentation](https://docs.0bull.net/)
+- [API reference](https://docs.0bull.net/api)
+- [Pricing](https://0bull.net/pricing)
+- [Sign up](https://0bull.net/order)
+- [Support](https://chat.0bull.net)
+- [Terms of service](https://0bull.net/terms)
+- [Privacy policy](https://0bull.net/privacy)
+- [GitHub](https://github.com/0bull)
+
+## API Evangelist rating
+
+**Kin Score 55.4** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 63.7 |
+
+**Agent readiness 37.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/0bull-net/](https://apis.io/providers/0bull-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 0bull: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/0bull-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
